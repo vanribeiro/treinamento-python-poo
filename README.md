@@ -1,3 +1,3 @@
-# Avanade POO Python 
+# Treinamento - Python Orientados a Objetos 
 
-POO concepts aplyed using Python language.
+Treinamento oferecido pela Avanade nos dias 05/06 a 06/06/2023.
